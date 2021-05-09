@@ -1,0 +1,255 @@
+body {
+  background-image: url("./images/background-body.JPG");
+  background-repeat: repeat;
+}
+.payment-request {
+  direction: rtl;
+}
+
+/* start inputs */
+.inputs {
+  background-color: #fff;
+  padding: 45px;
+  border: 8px solid rgb(242 242 242);
+}
+.inputs .first-row {
+  margin-bottom: 30px;
+}
+.inputs .second-row {
+  margin-bottom: 30px;
+}
+.inputs .third-row {
+  margin-bottom: 30px;
+}
+/* end inputs */
+
+/* start payment-request */
+.approval-request {
+  border: 8px solid rgb(242 242 242);
+  padding: 40px;
+  margin-left: 40px;
+  background-color: #fff;
+  margin: 35px 0;
+}
+/* end payment-request */
+
+/* start submitted by */
+.submitted .parent {
+  width: 40%;
+  border: 6px solid rgb(242 242 242);
+  padding: 10px;
+  margin-left: 31%;
+  margin-right: 34%;
+  margin-bottom: 35px;
+  background-color: #fff;
+}
+.submitted .border-title {
+  border-right: 6px solid rgb(0 78 188);
+}
+.submitted .image {
+  padding-right: 132px;
+}
+.submitted .h4 {
+  padding-left: 20px;
+}
+/* end submitted by */
+/* start payment details */
+.details .parent {
+  width: 40%;
+  border: 6px solid rgb(242 242 242);
+  padding: 10px;
+  margin-left: 31%;
+  margin-right: 31%;
+  margin-bottom: 35px;
+  margin-top: 35px;
+  background-color: #fff;
+}
+.details .border-title {
+  border-right: 6px solid rgb(255 162 0);
+}
+.details .image {
+  padding-right: 90px;
+}
+.details .h4 {
+  padding-left: 112px;
+}
+/* start payment details */
+
+/* start inputs payment details */
+.inputs .red input {
+  border: 1px solid rgb(192 37 51);
+  outline: rgb(192 37 51);
+}
+/* end inputs payment details */
+
+/* start timeline */
+.timeline .parent {
+  width: 40%;
+  border: 6px solid rgb(242 242 242);
+  padding: 10px;
+  margin-left: 31%;
+  margin-right: 31%;
+  margin-bottom: 35px;
+  margin-top: 35px;
+  background-color: #fff;
+}
+.timeline .border-title {
+  border-right: 6px solid rgb(116 184 67);
+}
+.timeline .image {
+  padding-right: 90px;
+}
+.timeline .h4 {
+  padding-left: 15px;
+}
+/* end timeline */
+
+/* start send to followings */
+.decision .parent {
+  width: 42%;
+  border: 6px solid rgb(242 242 242);
+  padding: 10px;
+  margin-left: 31%;
+  margin-right: 31%;
+  margin-bottom: 35px;
+  margin-top: 35px;
+  background-color: #fff;
+}
+.decision .border-title {
+  border-right: 6px solid rgb(158 31 99);
+}
+.decision .image {
+  padding-right: 20px;
+}
+.decision .h4 {
+  padding-left: 15px;
+}
+/* end send to followings */
+
+/* start Supporting-Documents */
+.Supporting-Documents .parent {
+  width: 40%;
+  border: 6px solid rgb(242 242 242);
+  padding: 10px;
+  margin-left: 31%;
+  margin-right: 31%;
+  margin-bottom: 35px;
+  margin-top: 35px;
+  background-color: #fff;
+}
+.Supporting-Documents .border-title {
+  border-right: 6px solid rgb(1 177 222);
+}
+.Supporting-Documents .image {
+  padding-right: 44px;
+}
+.Supporting-Documents .h4 {
+  padding-left: 15px;
+}
+/* end Supporting-Documents */
+
+/* start Audited by */
+.Audited .parent {
+  width: 40%;
+  border: 6px solid rgb(242 242 242);
+  padding: 10px;
+  margin-left: 31%;
+  margin-right: 31%;
+  margin-bottom: 35px;
+  margin-top: 35px;
+  background-color: #fff;
+}
+.Audited .border-title {
+  border-right: 6px solid rgb(68 80 38);
+}
+.Audited .image {
+  padding-right: 92px;
+}
+.Audited .h4 {
+  padding-left: 20px;
+}
+/* end Audited by */
+
+/* start Management-Approval */
+.Management-Approval .parent {
+  width: 40%;
+  border: 6px solid rgb(242 242 242);
+  padding: 10px;
+  margin-left: 31%;
+  margin-right: 31%;
+  margin-bottom: 35px;
+  margin-top: 35px;
+  background-color: #fff;
+}
+.Management-Approval .border-title {
+  border-right: 6px solid rgb(254 38 52);
+}
+.Management-Approval .image {
+  padding-right: 144px;
+}
+.Management-Approval .h4 {
+  padding-left: 15px;
+}
+/* end Management-Approval */
+
+/* start CEO */
+.ceo .parent {
+  width: 40%;
+  border: 6px solid rgb(242 242 242);
+  padding: 10px;
+  margin-left: 31%;
+  margin-right: 31%;
+  margin-bottom: 35px;
+  margin-top: 35px;
+  background-color: #fff;
+}
+.ceo .border-title {
+  border-right: 6px solid rgb(116 184 67);
+}
+.ceo .image {
+  padding-right: 20px;
+}
+.ceo .h4 {
+  padding-left: 15px;
+}
+/* end CEO */
+
+/* start decision */
+.decision .parent {
+  width: 45%;
+  border: 6px solid rgb(242 242 242);
+  padding: 10px;
+  margin-left: 22%;
+  margin-right: 31%;
+  margin-bottom: 35px;
+  margin-top: 35px;
+  background-color: #fff;
+}
+.decision .border-title {
+  border-right: 6px solid rgb(158 31 99);
+}
+.decision .image {
+  padding-right: 20px;
+}
+.decision .h4 {
+  padding-left: 15px;
+}
+/* end decision */
+/* start last-ceo */
+.last-ceo {
+  background-color: #fff;
+  padding: 45px;
+  border: 8px solid rgb(242 242 242);
+  border-top: 0;
+  height: 212px;
+  margin-bottom: 35px;
+}
+
+/* end last-ceo */
+.submit {
+  margin-bottom: 35px;
+}
+.submit button {
+  border-radius: 50px !important;
+  padding: 3px 15px;
+}
